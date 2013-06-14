@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE tsung SYSTEM '/usr/local/share/tsung/tsung-1.0.dtd'>
+<tsung loglevel="notice" dumptraffic="false" version="1.0">
+
+
+
+<clients>
+<client host="AY130521150737091046Z" maxusers="60000">
+<ip  value="10.144.53.202"/>
+</client>
+<client host="AY130521150737838051Z" maxusers="60000">
+<ip  value="10.144.53.203"/>
+</client>
+</clients>
+
+
+

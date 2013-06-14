@@ -1,0 +1,8 @@
+hosts.append(NodeInfo('AY130523110327750b02Z','115.28.38.202','10.144.60.107','root','93947ef6'))
+hosts.append(NodeInfo('AY130523110327750b02Z','115.28.38.178','10.144.60.112','root','0100c7d2'))
+hosts.append(NodeInfo('AY130523110327750b02Z','115.28.38.64','10.144.60.11','root','7cd89246'))
+hosts.append(NodeInfo('AY130523110327750b02Z','115.28.38.253','10.144.60.109','root','c12b114e'))
+hosts.append(NodeInfo('AY130523110327750b02Z','115.28.38.148','10.144.60.111','root','f643e01e'))
+hosts.append(NodeInfo('AY130523110327750b02Z','115.28.36.65','10.144.60.113','root','b76506a1'))
+hosts.append(NodeInfo('AY130523110327750b02Z','115.28.38.246','10.144.60.114','root','af0f642b'))
+hosts.append(NodeInfo('AY130523110327750b02Z','115.28.38.79','10.144.60.108','root','5fce4a70'))
