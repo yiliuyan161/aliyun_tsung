@@ -51,10 +51,15 @@ cluster_init目录，再次执行相应的步骤 eg：终端输入命令 fab upl
 
 各文件功能说明：
 cluster_init.py 主文件，执行所有命令
+
 exchange_key.py 生成密钥并分发
+
 fabfile.py 安装配置tsung
+
 generate_hosts.py 更新hosts文件
+
 hosts.py 主机信息
+
 
 拷贝的文件说明：
 
